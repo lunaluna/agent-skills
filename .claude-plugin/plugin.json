@@ -1,0 +1,8 @@
+{
+  "name": "wordpress-agent-skills",
+  "version": "0.1.0",
+  "description": "WordPress official agent-skills, packaged as a Claude Code plugin (fork of WordPress/agent-skills).",
+  "author": { "name": "WordPress", "url": "https://github.com/WordPress/agent-skills" },
+  "repository": "https://github.com/lunaluna/agent-skills",
+  "license": "GPL-2.0-or-later"
+}

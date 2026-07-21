@@ -1,0 +1,21 @@
+{
+  "name": "wordpress-agent-skills",
+  "owner": { "name": "lunaluna" },
+  "metadata": {
+    "description": "WordPress official agent-skills, packaged as a Claude Code plugin (fork of WordPress/agent-skills).",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "wordpress-agent-skills",
+      "description": "WordPress agent skills: block development, block themes, interactivity API, abilities API, REST API, WP-CLI, performance, PHPStan, playground, plugin development/guidelines, patterns, WPDS, blueprint, router, triage.",
+      "source": "./",
+      "version": "0.1.0",
+      "author": { "name": "WordPress", "url": "https://github.com/WordPress/agent-skills" },
+      "repository": "https://github.com/lunaluna/agent-skills",
+      "license": "GPL-2.0-or-later",
+      "keywords": ["wordpress", "gutenberg", "block", "interactivity", "abilities", "wp-cli"],
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,5 +1,13 @@
 # Agent Skills for WordPress
 
+> **Fork notice:** This is a fork of [WordPress/agent-skills](https://github.com/WordPress/agent-skills)
+> that adds Claude Code plugin manifests (`.claude-plugin/marketplace.json` and
+> `.claude-plugin/plugin.json`) so the skills can be installed via
+> `/plugin marketplace add lunaluna/agent-skills` →
+> `/plugin install wordpress-agent-skills@wordpress-agent-skills`.
+> No skill content is modified. Licensed under GPL-2.0-or-later, same as upstream.
+> Sync `trunk` from upstream periodically to follow updates.
+
 **Teach AI coding assistants how to build WordPress the right way.**
 
 Agent Skills are portable bundles of instructions, checklists, and scripts that help AI assistants (Claude, Copilot, Codex, Cursor, etc.) understand WordPress development patterns, avoid common mistakes, and follow best practices.
